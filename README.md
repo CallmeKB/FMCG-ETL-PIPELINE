@@ -102,5 +102,5 @@ Each notebook follows a similar pattern:
 
 --- 
 
-*Pipeline Author: [Your Name or Team]*  
-*Last Updated: September 2026*
+*Pipeline Author: _Kaushal Bohara
+_*Last Updated: September 2026*
